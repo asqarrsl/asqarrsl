@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashique Ar Rasool</h1>
 <h3 align="center">Interested in full stack development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelmnm&label=Profile%20views&color=0e75b6&style=flat" alt="akeelmnm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asqarrsl&label=Profile%20views&color=0e75b6&style=flat" alt="asqarrsl" /> </p>
 
 
 # 💫 About Me:
