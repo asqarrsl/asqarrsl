@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Mohamed Ashique Ar Rasool</h1>
+<h3 align="center">Interested in full stack development</h3>
 
-# Hi 👋, I'm Mohamed Ashique Ar Rasool
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelmnm&label=Profile%20views&color=0e75b6&style=flat" alt="akeelmnm" /> </p>
+
 
 # 💫 About Me:
 🌱 I’m currently learning Augmented Reality, Artificial intelligence, .Net, Typescript, and NodeJS<br>💼 I worked as Associate software engineer at Virtusa (Pvt) Ltd.<br>📫 How to reach me asqarrsl@gmail.com 
